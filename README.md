@@ -1,4 +1,4 @@
-Firmware for: [Urchin Keyboard](https://github.com/duckyb/urchin)
+Firmware for: [Pillzmodpro](https://github.com/dcpedit/pillzmod) keyboard
 
 ## Getting started
 
