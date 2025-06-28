@@ -7,7 +7,7 @@ manifest:
     - name: caksoylar
       url-base: https://github.com/caksoylar
       # kyek / duckyb
-    - name: duckyb
+    - name: epichub
       url-base: https://github.com/epichub
   projects:
     - name: zmk
