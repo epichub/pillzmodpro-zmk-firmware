@@ -3,10 +3,6 @@ manifest:
     # zmk official
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-      # bravekarma
-    - name: caksoylar
-      url-base: https://github.com/caksoylar
-      # kyek / duckyb
     - name: epichub
       url-base: https://github.com/epichub
   projects:
